@@ -1,5 +1,5 @@
 {
-    "name": "Physics Lab - Deacceleration #3",
+    "name": "Physics Lab - Deceleration #3",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -17,7 +17,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "6.0.28",
+        "target": "7.0.61",
         "targetId": "microbit"
     },
     "supportedTargets": [
